@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ececec;
+}
+
+.accordion__container {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+}
+
+.accordion__item {
+  height: 100%;
+  flex: 1;
+  transition: 0.5s;
+}
+
+.accordion__item.active {
+  flex: 7;
+}
+
+.accordion__item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
