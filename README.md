@@ -1,0 +1,1 @@
+Bu accordion image loyihasi rasm ustiga sichqoncha borganda rasm o'z kengligini o'zgartiradi. Loyihada HTML, CSS va JavaScriptdan foydalanilgan. Rasm flex xossasi orqali o'z kengligini o'zgartiradi va JavaScript orqali rasm o'lchamini o'zgartirishga xizmat qiladigan classlar qo'shiladi va o'chiriladi.
